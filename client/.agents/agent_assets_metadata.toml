@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "zRV-FBdbVxs64mpOets9I"
+uri = "file://client/public/hero-art.png"
+type = "image"
+title = "Abstract neon art supplies"
